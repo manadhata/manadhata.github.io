@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>3 on Pratyusa K. Manadhata</title>
+    <link>https://manadhata.github.io/publication_types/3/index.xml</link>
+    <description>Recent content in 3 on Pratyusa K. Manadhata</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2016 Pratyusa K. Manadhata</copyright>
+    <atom:link href="/publication_types/3/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Detecting Malicious Domains via Graph Inference</title>
+      <link>https://manadhata.github.io/publication/aisec14/</link>
+      <pubDate>Sat, 01 Nov 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://manadhata.github.io/publication/aisec14/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Big Data for Security: Challenges, Opportunities, and Examples</title>
+      <link>https://manadhata.github.io/publication/badgers12/</link>
+      <pubDate>Mon, 01 Oct 2012 00:00:00 +0000</pubDate>
+      
+      <guid>https://manadhata.github.io/publication/badgers12/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Measuring the Attack Surfaces of Two FTP  Daemons</title>
+      <link>https://manadhata.github.io/publication/qop06/</link>
+      <pubDate>Sun, 01 Oct 2006 00:00:00 +0000</pubDate>
+      
+      <guid>https://manadhata.github.io/publication/qop06/</guid>
+      <description>&lt;p&gt;\item , {\it }, , Alexandria, VA, Oct 2006.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>An Attack Surface Metric</title>
+      <link>https://manadhata.github.io/publication/metricon06/</link>
+      <pubDate>Tue, 01 Aug 2006 00:00:00 +0000</pubDate>
+      
+      <guid>https://manadhata.github.io/publication/metricon06/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

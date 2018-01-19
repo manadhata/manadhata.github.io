@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>2 on Pratyusa K. Manadhata</title>
+    <link>https://manadhata.github.io/publication_types/2/index.xml</link>
+    <description>Recent content in 2 on Pratyusa K. Manadhata</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2016 Pratyusa K. Manadhata</copyright>
+    <atom:link href="/publication_types/2/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>The Operational Role of Security Information and Event Management Systems</title>
+      <link>https://manadhata.github.io/publication/sp14/</link>
+      <pubDate>Mon, 01 Sep 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://manadhata.github.io/publication/sp14/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Traffic Signature-based Mobile Device Location Authentication</title>
+      <link>https://manadhata.github.io/publication/tomc14/</link>
+      <pubDate>Mon, 01 Sep 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://manadhata.github.io/publication/tomc14/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Big Data Analytics for Security Intelligence</title>
+      <link>https://manadhata.github.io/publication/sp13/</link>
+      <pubDate>Fri, 01 Nov 2013 00:00:00 +0000</pubDate>
+      
+      <guid>https://manadhata.github.io/publication/sp13/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An Attack Surface Metric</title>
+      <link>https://manadhata.github.io/publication/tse11/</link>
+      <pubDate>Sun, 01 May 2011 00:00:00 +0000</pubDate>
+      
+      <guid>https://manadhata.github.io/publication/tse11/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

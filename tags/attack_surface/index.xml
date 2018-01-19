@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Attack_surface on Pratyusa K. Manadhata</title>
+    <link>https://manadhata.github.io/tags/attack_surface/index.xml</link>
+    <description>Recent content in Attack_surface on Pratyusa K. Manadhata</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2016 Pratyusa K. Manadhata</copyright>
+    <atom:link href="/tags/attack_surface/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Attack Surface Measurement</title>
+      <link>https://manadhata.github.io/project/attacksurface/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://manadhata.github.io/project/attacksurface/</guid>
+      <description>
+
+&lt;p&gt;Measurement of security, both qualitatively and quantitatively, has been a long standing challenge to the research community and is of practical import to software industry today. Software industry has responded to demands for improvement in software security by increasing effort for creating ``more secure&amp;rdquo; products and services. How can industry determine whether this effort is paying off and how can consumers determine whether industry&amp;rsquo;s effort has made a difference? Our work looks at an important question faced by both industry and consumers today: How can we quantify a software system&amp;rsquo;s security?&lt;/p&gt;
+
+&lt;p&gt;We propose to use the measure of a software system&amp;rsquo;s attack surface as an indicator of the system&amp;rsquo;s security. Intuitively, a system&amp;rsquo;s attack surface is the set of ways in which an adversary can enter the system and potentially cause damage. Hence the larger the attack surface, the more insecure the system.&lt;/p&gt;
+
+&lt;h2 id=&#34;people&#34;&gt;People&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.cs.cmu.edu/~pratyus/&#34; target=&#34;_blank&#34;&gt;Pratyusa K. Manadhata&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.cs.cmu.edu/~wing/&#34; target=&#34;_blank&#34;&gt;Jeannette M. Wing&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;publications&#34;&gt;Publications&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://manadhata.github.io/publication/mtd13/&#34; target=&#34;_blank&#34;&gt;Game Theoretic Approaches to Attack Surface Shifting, Springer 2013&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://manadhata.github.io/publication/mtd11/&#34; target=&#34;_blank&#34;&gt;A Formal Model for A System&amp;rsquo;s Attack Surface, Springer 2011&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://manadhata.github.io/publication/tse11/&#34; target=&#34;_blank&#34;&gt;An Attack Surface Metric, TSE 2011&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://manadhata.github.io/publication/phdthesis/&#34; target=&#34;_blank&#34;&gt;An Attack Surface Metric, PhD Thesis 2008&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://manadhata.github.io/publication/essos09/&#34; target=&#34;_blank&#34;&gt;Measuring the Attack Surfaces of Enterprise Software, ESSoS 2009&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://manadhata.github.io/publication/issre08/&#34; target=&#34;_blank&#34;&gt;Measuring the Attack Surfaces of SAP Software Systems, ISSRE 2008&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://manadhata.github.io/publication/qop06/&#34; target=&#34;_blank&#34;&gt;Measuring the Attack Surfaces of Two FTP Daemons, QoP 2006&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://manadhata.github.io/publication/metricon06/&#34; target=&#34;_blank&#34;&gt;An Attack Surface Metric, Metricon 2006&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;selected-talks&#34;&gt;Selected Talks&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://manadhata.github.io/talk/mtd12/&#34; target=&#34;_blank&#34;&gt;Game Theoretic Approaches to Attack Surface Shifting, ARO MTD Workshop 2011&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://manadhata.github.io/talk/fujitsu09/&#34; target=&#34;_blank&#34;&gt;An Attack Surface Metric, Fujitsu Labs America 2009&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://manadhata.github.io/talk/att10/&#34; target=&#34;_blank&#34;&gt;An Attack Surface Metric, AT&amp;amp;T Research 2010&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://manadhata.github.io/talk/sap08/&#34; target=&#34;_blank&#34;&gt;Measuring the Attack Surfaces of Enterprise Software, SAP Academic Symposium 2008&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

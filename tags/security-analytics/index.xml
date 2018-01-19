@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Security Analytics on Pratyusa K. Manadhata</title>
+    <link>https://manadhata.github.io/tags/security-analytics/index.xml</link>
+    <description>Recent content in Security Analytics on Pratyusa K. Manadhata</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2016 Pratyusa K. Manadhata</copyright>
+    <atom:link href="/tags/security-analytics/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Security Analytics</title>
+      <link>https://manadhata.github.io/project/securityanalytics/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://manadhata.github.io/project/securityanalytics/</guid>
+      <description>
+
+&lt;p&gt;Enterprises routinely collect billions of security events from their networks for real time security monitoring, regulatory compliance, and forensic investigation. The volume of data has surpassed human ability to detect and respond to threats in a timely manner. Most of my recent work has focussed on designing algorithms and building systems to analyze the data in order to (a) identify threats in a scalable, reliable, and timely manner, and (b) respond to the threats in an automated manner.&lt;/p&gt;
+
+&lt;h2 id=&#34;publications&#34;&gt;Publications&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://manadhata.github.io/publication/gamesec16/&#34; target=&#34;_blank&#34;&gt;Data Exfiltration Detection and Prevention: Virtually Distributed POMDPs for Practically Safer Networks, GameSec 2016&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://manadhata.github.io/publication/sp14/&#34; target=&#34;_blank&#34;&gt;The Operational Role of Security Information and Event Management Systems, S&amp;amp;P Magazine, 2014&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://manadhata.github.io/publication/aisec14/&#34; target=&#34;_blank&#34;&gt;Detecting Malicious Domains via Graph Inference, AISec 2014&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://manadhata.github.io/publication/esorics14/&#34; target=&#34;_blank&#34;&gt;Detecting Malicious Domains via Graph Inference, ESORICS 2014&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://manadhata.github.io/publication/sp13/&#34; target=&#34;_blank&#34;&gt;Big Data Analytics for Security Intelligence, S&amp;amp;P Magazine 2013&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://manadhata.github.io/publication/pets11/&#34; target=&#34;_blank&#34;&gt;Text Classification for Data Loss Prevention, PETS 2013&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;selected-invited-talks&#34;&gt;Selected Invited Talks&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://manadhata.github.io/talk/aisec15/&#34; target=&#34;_blank&#34;&gt;Machine Learning for Enterprise Security (Keynote), AISec 2015&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://manadhata.github.io/talk/gamesecpanel16/&#34; target=&#34;_blank&#34;&gt;Operational Security Games (Panelist), GameSec 2016&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://manadhata.github.io/talk/cns16/&#34; target=&#34;_blank&#34;&gt;Enterprise Data Exfiltration Detection and Prevention, NFW 2016&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://manadhata.github.io/talk/pennstate14/&#34; target=&#34;_blank&#34;&gt;Security Event Management: Challenges and Opportunities, Penn State CSE Colloquium 2014&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;patents&#34;&gt;Patents&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;9 granted and 18 pending&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

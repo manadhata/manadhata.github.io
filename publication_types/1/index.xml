@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>1 on Pratyusa K. Manadhata</title>
+    <link>https://manadhata.github.io/publication_types/1/index.xml</link>
+    <description>Recent content in 1 on Pratyusa K. Manadhata</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2016 Pratyusa K. Manadhata</copyright>
+    <atom:link href="/publication_types/1/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>eyeDNS: Monitoring a University Campus Network</title>
+      <link>https://manadhata.github.io/publication/icc18/</link>
+      <pubDate>Tue, 01 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://manadhata.github.io/publication/icc18/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Data Exfiltration Detection and Prevention: Virtually Distributed POMDPs for Practically Safer Networks</title>
+      <link>https://manadhata.github.io/publication/gamesec16/</link>
+      <pubDate>Tue, 01 Nov 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://manadhata.github.io/publication/gamesec16/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Silent Shredder: Zero-Cost Shredding for Secure Non-Volatile Main Memory Controllers</title>
+      <link>https://manadhata.github.io/publication/asplos16/</link>
+      <pubDate>Fri, 01 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://manadhata.github.io/publication/asplos16/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Novel Algorithm for Pattern Matching with Back References</title>
+      <link>https://manadhata.github.io/publication/ipccc15/</link>
+      <pubDate>Tue, 01 Dec 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://manadhata.github.io/publication/ipccc15/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Detecting Malicious Domains via Graph Inference</title>
+      <link>https://manadhata.github.io/publication/esorics14/</link>
+      <pubDate>Mon, 01 Sep 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://manadhata.github.io/publication/esorics14/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Efficient Submatch Extraction for Practical Regular Expression</title>
+      <link>https://manadhata.github.io/publication/lata13/</link>
+      <pubDate>Mon, 01 Apr 2013 00:00:00 +0000</pubDate>
+      
+      <guid>https://manadhata.github.io/publication/lata13/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Authenticating a Mobile Device&#39;s Location Using Voice Signatures</title>
+      <link>https://manadhata.github.io/publication/wimob12/</link>
+      <pubDate>Mon, 01 Oct 2012 00:00:00 +0000</pubDate>
+      
+      <guid>https://manadhata.github.io/publication/wimob12/</guid>
+      <description>&lt;p&gt;\item , {\it }, , Barcelona, Spain, Oct 2012.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Fast Submatch Extraction using OBDDs</title>
+      <link>https://manadhata.github.io/publication/ancs12/</link>
+      <pubDate>Mon, 01 Oct 2012 00:00:00 +0000</pubDate>
+      
+      <guid>https://manadhata.github.io/publication/ancs12/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Securing a Femtocell-based Location Service</title>
+      <link>https://manadhata.github.io/publication/icost12/</link>
+      <pubDate>Sun, 01 Jul 2012 00:00:00 +0000</pubDate>
+      
+      <guid>https://manadhata.github.io/publication/icost12/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Verifying the Location of a Mobile Device User (Best Paper Award)</title>
+      <link>https://manadhata.github.io/publication/mobisec12/</link>
+      <pubDate>Fri, 01 Jun 2012 00:00:00 +0000</pubDate>
+      
+      <guid>https://manadhata.github.io/publication/mobisec12/</guid>
+      <description>&lt;p&gt;Best Paper Award.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Text Classification for Data Loss Prevention</title>
+      <link>https://manadhata.github.io/publication/pets11/</link>
+      <pubDate>Fri, 01 Jul 2011 00:00:00 +0000</pubDate>
+      
+      <guid>https://manadhata.github.io/publication/pets11/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Measuring the Attack Surfaces of Enterprise Software</title>
+      <link>https://manadhata.github.io/publication/essos09/</link>
+      <pubDate>Sun, 01 Feb 2009 00:00:00 +0000</pubDate>
+      
+      <guid>https://manadhata.github.io/publication/essos09/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Measuring the Attack Surfaces of SAP Software Systems</title>
+      <link>https://manadhata.github.io/publication/issre08/</link>
+      <pubDate>Sat, 01 Nov 2008 00:00:00 +0000</pubDate>
+      
+      <guid>https://manadhata.github.io/publication/issre08/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
